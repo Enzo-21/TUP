@@ -1,4 +1,5 @@
 .ejercicio {
+    height: 11rem;
     max-height: 11rem;
     overflow: hidden;
 }
