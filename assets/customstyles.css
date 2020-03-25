@@ -7,3 +7,10 @@
 .modal-custom {
     height: auto;
 }
+
+.logo {
+    max-height: 2rem;
+    width: auto;
+    border-radius: .3rem;
+    margin-right: 2rem;
+}
